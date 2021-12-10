@@ -1,6 +1,6 @@
 # CSE-569-Consolidated
 
-## Projects for CSE 569 - Fundamentals of Statistical Learning
+## Projects for Fundamentals of Statistical Learning
 
 Author - Rahul Gore
 
